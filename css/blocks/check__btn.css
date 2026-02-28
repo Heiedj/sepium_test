@@ -1,0 +1,14 @@
+.check__btn {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    background-color: #f6f6f6;
+    padding: 6px 12px;
+    border-radius: 18px;
+    border: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #32312f;
+    cursor: pointer;
+}
