@@ -8,8 +8,8 @@
 /* Blocks */
 /* ------------------------------------ */
 @import "../css/blocks/check__btn.css";
-@import "../css/blocks/slider__btn.css";
 @import "../css/blocks/btn.css";
 @import "../css/blocks/catalog.css";
 @import "../css/blocks/card.css";
 @import "../css/blocks/slider.css";
+@import "../css/blocks/slider__btn.css";

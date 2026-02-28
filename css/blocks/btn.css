@@ -10,3 +10,9 @@
     width: 224px;
     text-align: center;
 }
+
+@media screen and (max-width: 480px) {
+    .btn-order {
+        width: 100%;
+    }
+}
