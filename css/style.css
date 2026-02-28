@@ -1,15 +1,15 @@
 /* Global */
 /* ------------------------------------ */
-@import "/css/global/fonts.css";
-@import "/css/global/reboot.css";
-@import "/css/global/visually-hidden.css";
-@import "/css/global/container.css";
+@import "../css/global/fonts.css";
+@import "../css/global/reboot.css";
+@import "../css/global/visually-hidden.css";
+@import "../css/global/container.css";
 
 /* Blocks */
 /* ------------------------------------ */
-@import "/css/blocks/check__btn.css";
-@import "/css/blocks/slider__btn.css";
-@import "/css/blocks/btn.css";
-@import "/css/blocks/catalog.css";
-@import "/css/blocks/card.css";
-@import "/css/blocks/slider.css";
+@import "../css/blocks/check__btn.css";
+@import "../css/blocks/slider__btn.css";
+@import "../css/blocks/btn.css";
+@import "../css/blocks/catalog.css";
+@import "../css/blocks/card.css";
+@import "../css/blocks/slider.css";
